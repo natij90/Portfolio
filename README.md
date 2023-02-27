@@ -28,4 +28,7 @@ Throughout my whole career, I've always been professional and passionate about w
 
 # My projects ✏
 ## Futbol Kolektyw 
-* [Test cases](https://docs.google.com/spreadsheets/d/1syqu9mJb71_WnkooivLK1zLWJ-v2yaMQrSzOwwVtOYU/edit#gid=0)
+* [Test cases based on User Story](https://docs.google.com/spreadsheets/d/1syqu9mJb71_WnkooivLK1zLWJ-v2yaMQrSzOwwVtOYU/edit#gid=0)
+* [Test cases based on my own experience](https://docs.google.com/spreadsheets/d/1bkr1_z5aCD0tA7HTI9IfEyB1jdgK-0rv5SbLUGD6NGw/edit#gid=0)
+* [Bug report](https://docs.google.com/spreadsheets/d/1BcC22mjQuX5peX6jiFsOTzkBLZ9Dn8q0PMSzjsb14_I/edit#gid=0)
+* [Test summary report](https://docs.google.com/document/d/143ppGo7Bm9uzuukY2kQC4twtTQvb9AqcUboSy8JxD7Q/edit)
