@@ -42,6 +42,8 @@ Throughout my whole career, I've always been professional and passionate about w
 *  [Bugs report in Jira](https://challangedareit.atlassian.net/jira/software/projects/CHAL/boards/1)
 
 ## SQL exercises
+* [See what I can do in SQL](https://docs.google.com/spreadsheets/d/1lamPSMxtPaicja5uz0_JaLPaqrlG9JjH3j8ky9HbGG4/edit?usp=sharing)
+
 :question: 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
 :arrow_right: SELECT * FROM `actors` ORDER BY surname ASC
